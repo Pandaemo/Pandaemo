@@ -1,4 +1,4 @@
-# Hi, I'm [Your Real Name] (Pandaemo) 👋
+# Hi, I'm Fadhil Kamsan (Pandaemo) 👋
 ### Bachelor of Information Technology (Game Technology) | UTeM '26
 
 I am a final-year student graduating in March 2026. While my degree is in **Game Technology**, I have a strong interest in **Software Engineering**. I enjoy the challenge of writing high-performance code—whether it's optimizing a game loop or building a reliable backend service.
