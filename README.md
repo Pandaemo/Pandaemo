@@ -1,68 +1,54 @@
-# Portfolio: Pandaemo | Bachelor of Information Technology (Game Technology)
+# Hi, I'm [Your Real Name] (Pandaemo) 👋
+### Bachelor of Information Technology (Game Technology) | UTeM '26
 
-## About Me
+I am a final-year student graduating in March 2026. While my degree is in **Game Technology**, I have a strong interest in **Software Engineering**. I enjoy the challenge of writing high-performance code—whether it's optimizing a game loop or building a reliable backend service.
 
-I am a recent Bachelor of Information Technology (Game Technology) graduate with Honours, specializing in robust application development and interactive media. I am passionate about creating high-performance code, whether it's powering a game engine or a scalable backend service.
-
-**Motto:** > "Don’t talk about ambition if there’s no action."
-
----
-
-## 🛠️ Core Skills
-
-| Category | Primary Expertise | Secondary Skills |
-| :--- | :--- | :--- |
-| **Game Engines** | Unity (C#), Unreal Engine | Raylib (C++) |
-| **Software Engineering** | C#, ASP.NET Core 10, Docker, Background Services | C++, JavaScript (Three.js), Web (HTML) |
-| **Graphics & Tools** | Blender, OpenGL, Three.js | Adobe After Effects (video editing), Audacity (audio editing) |
+**Motto:**
+> "Don’t talk about ambition if there’s no action."
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Technical Skills
 
-My portfolio is divided to showcase my proficiency in both reliable software architecture and creative game technology.
+| Category | Languages & Tools |
+| :--- | :--- |
+| **Backend Development** | **C#**, **ASP.NET Core (8/9)**, Docker, SQL, Background Services |
+| **Game Development** | Unity (C#), Unreal Engine, Raylib (C++) |
+| **Graphics & Tools** | Blender, OpenGL, Git, Postman |
 
-### 1. Software Engineering: BulkMailSender
+---
 
-A production-grade, highly resilient ASP.NET Core Razor Pages application designed for efficient bulk email processing. This project demonstrates strong backend architecture and systems design.
+## 🚀 Key Projects
 
-* **Architecture & Robustness:** Implements an asynchronous **Background Job Service** (`IHostedService`) to ensure non-blocking performance. Features a robust **3-attempt retry logic** with exponential backoff for failed emails and includes graceful cancellation support.
-* **Key Functionality:** Handles large file processing (ZIP archives up to 500MB) via streaming and features persistent SMTP configuration, recipient CSV validation, and real-time progress tracking.
-* **Deployment:** Production-ready Docker containerization with comprehensive setup guides for both HTTP and HTTPS.
-* **Technologies:** C#, .NET 10, ASP.NET Core Razor Pages, Bootstrap 5, Docker.
-* **[GitHub Repository Link]** (Link to `Pandaemo/BulkMailSender` repository)
-* **[Live Demo / UI Showcase Link]** (Link to a hosted version or a Behance visual walkthrough)
+### 1. BulkMailSender (Backend Engineering)
+*A robust email automation tool designed with enterprise architecture patterns.*
 
-***
+This project was built to solve the problem of handling large-scale email dispatch reliability.
+* **The Architecture:** Implemented an asynchronous **Background Job Service** (`IHostedService`) to prevent UI blocking during processing.
+* **Reliability:** Features a **retry mechanism** with exponential backoff for failed network requests and graceful cancellation tokens.
+* **Performance:** Handles large file attachments via stream processing to minimize memory usage.
+* **Tech Stack:** C#, ASP.NET Core Razor Pages, Docker, Bootstrap 5.
+* **[View Code on GitHub]** (Link to your repo)
 
-### 2. Game Technology: [Your Unity Game Project Name]
+### 2. [Your Unity Game Name] (Game Logic)
+*A 3D simulation project exploring advanced C# mechanics.*
 
-* **Project Summary:** **[Short, exciting summary of the game, e.g., A first-person survival horror game with procedural level generation.]**
-* **My Role & Contribution:** **[Specific details on your code contribution, e.g., Solely responsible for implementing player character controller, inventory system, and optimizing physics calculations.]**
-* **Technologies:** Unity (C#), [Other key technologies, e.g., Shader Graph, Blender asset pipeline].
-* **[GitHub Repository Link]** (Link to this specific game project repository)
-* **[Behance / Game Trailer Link]** (Link to the best visual presentation of this game)
+* **Summary:** A survival prototype featuring procedural generation.
+* **My Contribution:** Focused on the **Inventory Data Structure**. I moved away from simple lists and implemented a Dictionary-based system for O(1) item lookup performance.
+* **Tech Stack:** Unity (C#), ScriptableObjects.
+* **[View Code on GitHub]** (Link to your repo)
 
-***
+### 3. [Your C++ Project Name] (Low-Level Systems)
+*University coursework focusing on memory management.*
 
-### 3. Game Technology: [Your Unreal Engine / C++ Project Name]
-
-* **Project Summary:** **[Short description of the project, e.g., A technical implementation of a multithreaded pathfinding system in C++.]**
-* **My Role & Contribution:** **[Quantified achievement, e.g., Developed a custom memory management solution that reduced the garbage collector's impact by 60% on average frame time.]**
-* **Technologies:** Unreal Engine, C++, [Other key technologies, e.g., Network programming, OpenGL].
-* **[GitHub Repository Link]** (Link to the project's code repository)
-* **[Technical Document / Demo Link]** (Link to a visual or documentation showcasing the result)
+* **Summary:** A custom implementation of pathfinding algorithms.
+* **My Contribution:** Wrote raw C++ code to manage object pooling, reducing memory fragmentation during runtime.
+* **Tech Stack:** C++, Raylib / Unreal Engine.
+* **[View Code on GitHub]** (Link to your repo)
 
 ---
 
 ## 🔗 Connect
-
-| Platform | Link |
-| :--- | :--- |
-| **GitHub** | [github.com/Pandaemo](https://github.com/Pandaemo) |
-| **LinkedIn** | **[Your Live LinkedIn Profile URL]** |
-| **Behance** | **[Your Behance Profile URL]** |
-| **Email** | [your.email@example.com](mailto:your.email@example.com) |
-
-***
-*Built by Pandaemo.*
+* **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com)
+* **Email:** [your.email@example.com](mailto:your.email@example.com)
+* **Behance:** [behance.net/yourprofile](https://behance.net)
