@@ -1,7 +1,7 @@
 # Hi, I'm [Your Real Name] (Pandaemo) 👋
 ### Bachelor of Information Technology (Game Technology) | UTeM '26
 
-I am a final-year student graduating in March 2026. While my degree is in **Game Technology**, I have a strong interest in **Software Engineering**. I enjoy the challenge of writing high-performance code—whether it's optimizing a game loop or building a reliable backend service.
+I am a final-year Information Technology graduate from UTeM. My background in Game Technology has trained me to build high-performance, logic-heavy applications—applying the rigorous optimization standards of game development to modern backend software.
 
 **Motto:**
 > "Turning complex logic into reliable software."
@@ -13,7 +13,7 @@ I am a final-year student graduating in March 2026. While my degree is in **Game
 | Category | Proficiency |
 | :--- | :--- |
 | **Languages** | **C#**, **C++**, Python, SQL, HTML/CSS |
-| **Frameworks** | **ASP.NET Core (8)**, Docker, Entity Framework, Unity |
+| **Frameworks & Engines** | **ASP.NET Core (8)**, Docker, Entity Framework, **Unity**, **Unreal Engine** |
 | **Core Concepts** | **OOP**, Database Systems, Data Communication (Networking), Operating Systems, AI Logic |
 | **Tools** | Git, Postman, Visual Studio, Blender |
 
@@ -44,7 +44,7 @@ This project was built to solve the problem of handling large-scale email dispat
 
 * **Summary:** A custom implementation of pathfinding algorithms.
 * **My Contribution:** Wrote raw C++ code to manage object pooling, reducing memory fragmentation during runtime.
-* **Tech Stack:** C++, Raylib / Unreal Engine.
+* **Tech Stack:** C++, Unreal Engine, Raylib.
 * **[View Code on GitHub]** (Link to your repo)
 
 ---
