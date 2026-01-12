@@ -1,20 +1,21 @@
-# Hi, I'm Fadhil Kamsan (Pandaemo) 👋
+# Hi, I'm [Your Real Name] (Pandaemo) 👋
 ### Bachelor of Information Technology (Game Technology) | UTeM '26
 
 I am a final-year student graduating in March 2026. While my degree is in **Game Technology**, I have a strong interest in **Software Engineering**. I enjoy the challenge of writing high-performance code—whether it's optimizing a game loop or building a reliable backend service.
 
 **Motto:**
-> "Don’t talk about ambition if there’s no action."
+> "Turning complex logic into reliable software."
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Category | Languages & Tools |
+| Category | Proficiency |
 | :--- | :--- |
-| **Backend Development** | **C#**, **ASP.NET Core (8/9)**, Docker, SQL, Background Services |
-| **Game Development** | Unity (C#), Unreal Engine, Raylib (C++) |
-| **Graphics & Tools** | Blender, OpenGL, Git, Postman |
+| **Languages** | **C#**, **C++**, Python, SQL, HTML/CSS |
+| **Frameworks** | **ASP.NET Core (8)**, Docker, Entity Framework, Unity |
+| **Core Concepts** | **OOP**, Database Systems, Data Communication (Networking), Operating Systems, AI Logic |
+| **Tools** | Git, Postman, Visual Studio, Blender |
 
 ---
 
