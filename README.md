@@ -51,20 +51,22 @@ This project was built to solve the problem of handling large-scale email dispat
 * **Tech Stack:** C#, ASP.NET Core Razor Pages, Docker, Bootstrap 5.
 * **[View Code on GitHub](https://github.com/Fadhil-8bit/BulkMailSender)**
 
-### 2. [Your Unity Game Name] (Game Logic)
+### 2. SOCConvertor (Document Automation)
+*A PDF processing tool engineered to streamline administrative workflows.*
+
+Designed to automate the separation of bulk PDF documents (Invoices, SOAs) into individual files based on content analysis.
+* **Core Logic:** Integrated **iText 7** to parse raw PDF text and identify split triggers using Regex pattern matching.
+* **Architecture:** Built on **ASP.NET Core MVC (.NET 9)** with a service-oriented approach (`PdfService`) for clean separation of concerns.
+* **Security:** Implemented strict path sanitization and validation logic to prevent directory traversal attacks during file handling.
+* **Deployment:** Containerized with **Docker** for consistent environment deployment.
+* **[View Code on GitHub](https://github.com/Fadhil-8bit/socconverter-alpha)**
+
+### 3. [Your Unity Game Name] (Game Logic)
 *A 3D simulation project exploring advanced C# mechanics.*
 
 * **Summary:** A survival prototype featuring procedural generation.
 * **My Contribution:** Focused on the **Inventory Data Structure**. I moved away from simple lists and implemented a Dictionary-based system for O(1) item lookup performance.
 * **Tech Stack:** Unity (C#), ScriptableObjects.
-* **[View Code on GitHub]** (Link to your repo)
-
-### 3. [Your C++ Project Name] (Low-Level Systems)
-*University coursework focusing on memory management.*
-
-* **Summary:** A custom implementation of pathfinding algorithms.
-* **My Contribution:** Wrote raw C++ code to manage object pooling, reducing memory fragmentation during runtime.
-* **Tech Stack:** C++, Unreal Engine, Raylib.
 * **[View Code on GitHub]** (Link to your repo)
 
 ---
