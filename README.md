@@ -49,7 +49,7 @@ This project was built to solve the problem of handling large-scale email dispat
 * **Reliability:** Features a **retry mechanism** with exponential backoff for failed network requests and graceful cancellation tokens.
 * **Performance:** Handles large file attachments via stream processing to minimize memory usage.
 * **Tech Stack:** C#, ASP.NET Core Razor Pages, Docker, Bootstrap 5.
-* **[View Code on GitHub]** [(https://github.com/Fadhil-8bit/BulkMailSender)]
+* **[View Code on GitHub]** (https://github.com/Fadhil-8bit/BulkMailSender)
 
 ### 2. [Your Unity Game Name] (Game Logic)
 *A 3D simulation project exploring advanced C# mechanics.*
