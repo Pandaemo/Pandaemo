@@ -1,7 +1,7 @@
 # Hi, I'm Fadhil Kamsan 👋
 ### Bachelor of Information Technology (Game Technology) | UTeM '26
 
-I am a final-year Information Technology graduate from UTeM. My background in Game Technology has trained me to build high-performance, logic-heavy applications—applying the rigorous optimization standards of game development to modern backend software.
+I am a final-year Information Technology graduate from UTeM. My background in Game Technology has trained me to build high-performance, logic-heavy applications applying the rigorous optimization standards of game development to modern backend software.
 
 **Motto:**
 > "Turning complex logic into reliable software."
