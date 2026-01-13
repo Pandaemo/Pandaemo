@@ -70,6 +70,6 @@ This project was built to solve the problem of handling large-scale email dispat
 ---
 
 ## 🔗 Connect
-* **LinkedIn:** [linkedin.com/in/yourname](https://www.linkedin.com/in/fadhil-kamsan-862836342)
-* **Email:** [your.email@example.com](mailto:fadhilkamsan0708@gmail.com)
-* **Behance:** [behance.net/yourprofile](https://www.behance.net/fadhilkamsan)
+* **LinkedIn:** [linkedin.com/in/fadhilkamsan](https://www.linkedin.com/in/fadhil-kamsan-862836342)
+* **Email:** [fadhilkamsan0708@gmail.com](mailto:fadhilkamsan0708@gmail.com)
+* **Behance:** [behance.net/fadhilkamsan](https://www.behance.net/fadhilkamsan)
