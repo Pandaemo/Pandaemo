@@ -61,14 +61,13 @@ Designed to automate the separation of bulk PDF documents (Invoices, SOAs) into 
 * **Deployment:** Containerized with **Docker** for consistent environment deployment.
 * **[View Code on GitHub](https://github.com/Fadhil-8bit/socconverter-alpha)**
 
-### 3. [Your Unity Game Name] (Game Logic)
-*A 3D simulation project exploring advanced C# mechanics.*
+### 3. LLM-Integrated NPC System (Final Year Project)
+*A 2D RPG prototype exploring generative AI dialogue.*
 
-* **Summary:** A survival prototype featuring procedural generation.
-* **My Contribution:** Focused on the **Inventory Data Structure**. I moved away from simple lists and implemented a Dictionary-based system for O(1) item lookup performance.
-* **Tech Stack:** Unity (C#), ScriptableObjects.
-* **[View Code on GitHub]** (Link to your repo)
-
+* **Summary:** A role-playing game that replaces static dialogue trees with dynamic, context-aware AI interactions.
+* **My Contribution:** Focused on the **API Architecture**. I implemented the C# backend to handle complex JSON serialization and real-time state management for seamless LLM integration.
+* **Tech Stack:** Unity (2D), C#, REST API, JSON.
+* **[Preview in Behance](https://www.behance.net/gallery/242443167/QuestHeart)**
 ---
 
 ## 🔗 Connect
